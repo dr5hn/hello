@@ -41,16 +41,3 @@
 </p>
 
 [![become-a-backer](https://opencollective.com/countries-states-cities/backers.svg?width=890)](https://opencollective.com/countries-states-cities#backers)
-
-
-## Suggestions / Feedbacks
-```
-Suggestions & Feedbacks are Most Welcome
-gadadarshan[at]gmail[dot]com
-```
-
-## Attribution
-<a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
-
-
-That's all Folks. Enjoy.
