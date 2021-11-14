@@ -1,89 +1,31 @@
 ![banner](https://github.com/dr5hn/hello/raw/main/.github/hello-banner.png)
 # How To Say "Hello" In Different Languages
 
-1. French
-Formal: Bonjour
-Informal: Salut
+| Sr. | Language | Formal | Informal |
+|---|---|---|---|
+| 1 | French | Bonjour | Salut |
+| 2 | Spanish | Hola | ¿Qué tal? (What’s up?) |
+| 3 | Russian | Zdravstvuyte | Privet |
+| 4 | Chinese | Nǐn hǎo | Nǐ hǎo |
+| 5 | Italian | Salve | Ciao |
+| 6 | Japanese | Konnichiwa | Yā, Yō |
+| 7 | Portuguese | Olá | Oi |
+| 8 | German | Guten Tag | Hallo, Hi |
+| 9 | Korean | Anyoung haseyo | Anyoung |
+| 10 | Arabic | Asalaam alaikum (Peace be upon you) | Ahlan |
+| 11 | Danish | Goddag | Hej, Halløj |
+| 12 | Swahili | Shikamoo | Habari, Hujambo |
+| 13 | Dutch | Goedendag | Hoi, Hallo |
+| 14 | Greek | Yassas | Yassou |
+| 15 | Polish | Dzień dobry | Cześć, Witaj |
+| 16 | Indonesian | Selamat siang | Hallo, Hi |
+| 17 | Hindi | Namaste, Namaskar | Hai, Helo |
+| 18 | Turkish | Merhaba | Selam |
+| 19 | Hebrew | Shalom | Hey |
+| 20 | Swedish | God dag | Hej, Tjena |
+| 21 | Norwegian | God dag | Hei |
 
-2. Spanish
-Formal: Hola
-Informal: ¿Qué tal? (What’s up?)
 
-3. Russian
-Formal: Zdravstvuyte
-Informal: Privet
-
-4. Chinese
-Formal: Nǐn hǎo
-Informal: Nǐ hǎo
-
-5. Italian
-Formal: Salve
-Informal: Ciao
-
-6. Japanese
-Formal: Konnichiwa
-Informal: Yā, Yō
-
-7. German
-Formal: Guten Tag
-Informal: Hallo, Hi
-
-8. Portuguese
-Formal: Olá
-Informal: Oi
-
-9. Korean
-Formal: Anyoung haseyo
-Informal: Anyoung
-
-10. Arabic
-Formal: Asalaam alaikum (Peace be upon you)
-Informal: Ahlan
-
-11. Danish
-Formal: Goddag
-Informal: Hej, Halløj
-
-12. Swahili
-Formal: Shikamoo
-Informal: Habari, Hujambo
-
-13. Dutch
-Formal: Goedendag
-Informal: Hoi, Hallo
-
-14. Greek
-Formal: Yassas
-Informal: Yassou
-
-15. Polish
-Formal: Dzień dobry
-Informal: Cześć, Witaj
-
-16. Indonesian
-Formal: Selamat siang
-Informal: Halo
-
-17. Hindi
-Formal: Namaste, Namaskar
-Informal: Hai, Helo
-
-18. Turkish
-Formal: Merhaba
-Informal: Selam
-
-19. Hebrew
-Formal: Shalom
-Informal: Hey
-
-20. Swedish
-Formal: God dag
-Informal: Hej, Tjena
-
-21. Norwegian
-Formal: God dag
-Informal: Hei
 
 ## Follow me at
 <a href="https://github.com/dr5hn/"><img alt="Github @dr5hn" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> <a href="https://twitter.com/dr5hn/"><img alt="Twitter @dr5hn" src="https://img.shields.io/static/v1?logo=twitter&message=Twitter&color=black&style=flat-square&label=" /></a> <a href="https://www.linkedin.com/in/dr5hn/"><img alt="LinkedIn @dr5hn" src="https://img.shields.io/static/v1?logo=linkedin&message=LinkedIn&color=black&style=flat-square&label=&link=https://twitter.com/dr5hn" /></a>
@@ -106,5 +48,9 @@ Informal: Hei
 Suggestions & Feedbacks are Most Welcome
 gadadarshan[at]gmail[dot]com
 ```
+
+## Attribution
+<a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
+
 
 That's all Folks. Enjoy.
